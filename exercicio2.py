@@ -16,7 +16,7 @@ class Eleitores:
 
 
 
-class TestStringMethods(unittest.TestCase):
+class TestMethods(unittest.TestCase):
     
     def test_datatype(self):
         eleitor = Eleitores(17,False)

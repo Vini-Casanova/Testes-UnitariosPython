@@ -6,7 +6,7 @@ class Eleitores:
 
 
 
-class TestStringMethods(unittest.TestCase):
+class TestMethods(unittest.TestCase):
     
     @unittest.expectedFailure
     def test_lower(self):
